@@ -1,67 +1,93 @@
-# Hi 👋, I'm Rahul Kandwal
+<h1 align="center">Hi, I'm Rahul Kandwal 👋</h1>
 
-## Frontend Developer | Full Stack Developer | React | Next.js | TypeScript
+<p align="center">
+  <b>Full Stack Software Developer</b> | B.Tech (CSE) | Experienced in Web Development
+</p>
 
-### About Me
-- **Experience:** 1+ year in React, 1.6+ years in Next.js
-- **Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, NestJS, Docker, Redis
-- **Currently Learning:** Linux for software development
+---
 
-### Work Experience
+### 🚀 **About Me**
+🔹 Full Stack Developer skilled in **React.js, Next.js, TypeScript, Node.js, MySQL, and MongoDB**.  
+🔹 Experienced in designing and maintaining high-performance **web applications**.  
+🔹 Strong background in **API development, database management, and UI frameworks**.  
+🔹 Open to new challenges and opportunities.  
 
-#### **Full Stack Web Developer**  
-**Vyapardost Pvt. Ltd**  
-*July 2023 – Present*  
-In my role as a Full Stack Web Developer, I design, implement, and maintain web applications, focusing on enhancing user engagement and streamlining operations. My responsibilities include:
-- Working with technologies like JavaScript, Node.js, MySQL.
-- Ensuring high performance and responsiveness of applications.
-- Collaborating with cross-functional teams to meet project goals and business objectives.
+📧 **Email:** [rahulkandwal707@gmail.com](mailto:rahulkandwal707@gmail.com)  
+🌐 **Portfolio:** [rahulkandwal.netlify.app](https://rahulkandwal.netlify.app/)  
+🔗 **LinkedIn:** [linkedin.com/in/rahul-kandwal-015910214](https://linkedin.com/in/rahul-kandwal-015910214)  
+💻 **GitHub:** [github.com/rkandwal300](https://github.com/rkandwal300)  
 
-[Contact: Sudarshan Mane](https://www.linkedin.com/in/sudarshanmane/)
+---
 
-#### **Full Stack Web Intern**  
-**Bixlash Pvt. Ltd**  
-*April 2023 – July 2023*  
-During this internship, I gained practical experience in web development, contributing to various frontend and backend projects using JavaScript, React.js, Node.js, and more. I assisted in:
-- Developing a dynamic web application.
-- Enhancing UI/UX design and implementation.
+### 🛠️ **Tech Stack**
+#### **Languages**
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
 
-### Projects & Work
-- **Portfolio:** [rahulkandwal.netlify.app](https://rahulkandwal.netlify.app/)
-- **Resume:** [Download Resume](https://rahulkandwal.netlify.app/resume.pdf)
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-### Skills
-#### Frontend
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) **React**
-- ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) **Next.js**
-- ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) **TypeScript**
-- ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) **Tailwind CSS**
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 
-#### Backend
-- ![NestJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg) **NestJS**
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) **Node.js**
-- ![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg) **Redis**
-- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) **PostgreSQL**
+#### **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat)
+ 
+---
 
-#### DevOps & Tools
-- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) **Docker**
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) **Linux**
-- ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) **AWS**
-- ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) **Kubernetes**
-- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) **Git**
+### 📌 **Work Experience**
+#### **Full Stack Web Developer | Vyapardost Pvt. Ltd** (07/2023 - Present)  
+- Developing and maintaining **scalable web applications**.  
+- Working with **JavaScript, Node.js, and MySQL**.  
+- Collaborating with teams to ensure high-quality development.
 
-### Personal Projects
-- **Portfolio:** Built a portfolio website using React and TypeScript to showcase my work.  
-  *Skills: React.js, Tailwind, TypeScript*
-  
-- **My Easy-Cart:** Developed a full-stack custom e-commerce site where users can buy products and manage cart details.  
-  *Skills: React.js, TypeScript, Tailwind*
+#### **Full Stack Web Intern | Bixlash Pvt. Ltd** (04/2023 - 07/2023)  
+- Gained experience in **frontend and backend technologies**.  
+- Assisted in building dynamic **web applications** with React.js and Node.js.  
+- Worked on **UI/UX design** and **API integrations**.
 
-- **YouTube Clone:** Created a YouTube clone with features like search, play, and video categorization using React.js and Tailwind CSS.  
-  *Skills: React.js, Tailwind, API Testing*
+---
 
-### Connect with Me
-- **GitHub:** [github.com/rahulkandwal](https://github.com/rahulkandwal)
-- **LinkedIn:** [linkedin.com/in/rahulkandwal](https://linkedin.com/in/rahulkandwal)
+### 💡 **Projects**
+📌 **Portfolio**  
+🛠 **React.js | TypeScript | Tailwind CSS**  
+A personal portfolio website showcasing my work and projects.  
 
-📩 Looking for frontend and full-stack opportunities. Let's connect!
+📌 **My Easy-Cart**  
+🛠 **React.js | TypeScript | Tailwind CSS | API Integration**  
+A full-stack e-commerce platform with user authentication, cart management, and secure payments.  
+
+📌 **YouTube Clone**  
+🛠 **React.js | Tailwind CSS | YouTube API**  
+A custom YouTube clone allowing users to search and watch videos by category.  
+
+---
+
+### 📜 **Certifications**
+✅ **Advanced Diploma in Full Stack Development** (05/2022 - 02/2023)  
+
+---
+
+### 🌍 **Let's Connect**
+💼 **LinkedIn:** [linkedin.com/in/rahul-kandwal-015910214](https://linkedin.com/in/rahul-kandwal-015910214)  
+💻 **GitHub:** [github.com/rkandwal300](https://github.com/rkandwal300)  
+📧 **Email:** [rahulkandwal707@gmail.com](mailto:rahulkandwal707@gmail.com)  
+
+---
+
+🔥 **Check out my repositories and feel free to collaborate!**
